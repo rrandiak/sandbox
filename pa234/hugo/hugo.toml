@@ -1,0 +1,9 @@
+baseURL = 'http://awesome-website.com/'
+languageCode = 'en-us'
+title = 'PA234 - Hw2'
+theme = 'not-much'
+
+[params]
+theme = 'light'
+palette = 'default'
+
