@@ -1,5 +1,5 @@
 # About
 
-Name: Róbert Randiak
-UCO: 524943
+**Name:** `Róbert Randiak`
 
+**UCO:** `524943`
